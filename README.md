@@ -1,1 +1,1 @@
-Tic-tac-toe simulator in C++
+Tic-tac-toe simulator in cpp.
